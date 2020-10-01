@@ -1,2 +1,2 @@
-# This is Program For Multiplication-Table-in-Python
+# This Program For Multiplication-Table-in-Python
 A multiplication table by use of python and tkinter.
